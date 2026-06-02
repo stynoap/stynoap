@@ -32,17 +32,11 @@ Let's connect and collaborate on exciting projects!
 
 ## 💼 Featured Projects
 
-### Personal Projects
+### Projects
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Tra Colleghi](https://tracolleghi.it/)** | An exclusive networking platform for Italian psychologists to facilitate supervision and referrals. Actively used by 1000+ professionals across 400+ cities. | `Next.js` `Supabase` `Vercel` |
 | **AI Conversational Agents** | Designed and integrated real-time AI conversational assistants (text and voice) for various business applications. | `Node.js` `Twilio` `Meta API` `MongoDB Vector` |
-
-### Learning Projects
-| Project Name | Description | Repository |
-| :--- | :--- | :--- |
-| **CV Editor Markdown** | A custom, dynamic Markdown-to-PDF CV builder with premium layout templates, live preview, and intelligent text search. | [Link to Repo](#) |
-| **OOP & Backend Demo** | Projects built exploring Object-Oriented Programming, Entity Framework, and LINQ during the Microsoft Academy for Girls. | [Link to Repo](#) |
 
 ---
 *“Effective software isn't just about clean code; it's about understanding the human at the other side of the screen.”*
